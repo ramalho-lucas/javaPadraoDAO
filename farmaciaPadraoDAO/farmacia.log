@@ -1,0 +1,6 @@
+2023-02-06 11:11:01,838 [main]  INFO com.digitalhouse.farmacia.dao.impl.MedicamentoDaoH2:30 - Abrindo conexao
+2023-02-06 11:11:02,680 [main]  INFO com.digitalhouse.farmacia.dao.impl.MedicamentoDaoH2:42 - Fechando Conexao
+2023-02-06 11:11:31,721 [main]  INFO com.digitalhouse.farmacia.dao.impl.MedicamentoDaoH2:30 - Abrindo conexao
+2023-02-06 11:11:32,107 [main]  INFO com.digitalhouse.farmacia.dao.impl.MedicamentoDaoH2:42 - Fechando Conexao
+2023-02-06 11:11:42,326 [main]  INFO com.digitalhouse.farmacia.dao.impl.MedicamentoDaoH2:30 - Abrindo conexao
+2023-02-06 11:11:42,696 [main]  INFO com.digitalhouse.farmacia.dao.impl.MedicamentoDaoH2:42 - Fechando Conexao
