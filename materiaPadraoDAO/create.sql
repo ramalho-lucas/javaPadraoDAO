@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS materia;
+CREATE TABLE IF NOT EXISTS materia(
+id INT auto_increment PRIMARY KEY,
+nome VARCHAR(255)
+);

@@ -1,0 +1,48 @@
+2023-02-06 15:32:00,102 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:32:00,460 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:32:00,562 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:32:00,565 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:32:30,522 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:32:30,895 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:32:30,985 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:32:30,988 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:32:48,211 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:32:48,627 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:33:06,528 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:33:06,873 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:33:06,985 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:33:06,989 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:33:15,911 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:33:16,292 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:33:16,401 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:33:16,404 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:33:32,318 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:33:32,763 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:33:32,859 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:33:32,860 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:33:48,262 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:33:48,624 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:33:48,732 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:33:48,735 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:34:04,056 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:34:04,559 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:34:04,659 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:34:04,662 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:36:36,670 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:36:37,048 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:36:37,160 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:36:37,164 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:38:50,689 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:38:51,069 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:38:51,170 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:38:51,174 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:39:58,436 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:39:58,446 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:40:19,804 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:40:20,182 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:40:23,910 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:40:23,918 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:40:32,640 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:40:32,651 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
+2023-02-06 15:41:05,522 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:30 - Abrindo Conexao
+2023-02-06 15:41:05,887 [main]  INFO com.digitalhouse.dao.impl.MateriaDaoH2:43 - Fechando a Conexao
